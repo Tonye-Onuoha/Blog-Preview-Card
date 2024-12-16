@@ -22,7 +22,7 @@ This is a simple HTML and CSS project in which the main objective is to build ou
 
 ### Links
 
-- Live Site URL: [Vercel](blog-preview-card-ochre-seven.vercel.app)
+- Live Site URL: [Vercel](https://blog-preview-card-ochre-seven.vercel.app)
 
 ## My process
 
