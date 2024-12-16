@@ -14,7 +14,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-This is a simple HTML and CSS project in which the main objective is to build out a Blog preview card webpage.
+This is a simple HTML and CSS project in which the main objective is to build out a Blog preview card web page.
 
 ### Screenshot
 
@@ -22,7 +22,7 @@ This is a simple HTML and CSS project in which the main objective is to build ou
 
 ### Links
 
-- Live Site URL: [Vercel]()
+- Live Site URL: [Vercel](blog-preview-card-ochre-seven.vercel.app)
 
 ## My process
 
